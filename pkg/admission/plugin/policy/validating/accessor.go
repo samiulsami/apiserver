@@ -17,7 +17,7 @@ limitations under the License.
 package validating
 
 import (
-	"k8s.io/api/admissionregistration/v1"
+	v1 "k8s.io/api/admissionregistration/v1"
 	"k8s.io/apimachinery/pkg/types"
 	"k8s.io/apiserver/pkg/admission/plugin/policy/generic"
 )

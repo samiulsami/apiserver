@@ -17,7 +17,7 @@ limitations under the License.
 package generic
 
 import (
-	"k8s.io/api/admissionregistration/v1"
+	v1 "k8s.io/api/admissionregistration/v1"
 	"k8s.io/apimachinery/pkg/types"
 )
 
